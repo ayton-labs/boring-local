@@ -5,7 +5,7 @@ export default function Home() {
       <section className="bg-gradient-to-b from-neutral-50 to-white py-24 lg:py-32">
         <div className="max-w-6xl mx-auto px-6 text-center">
           <h1 className="text-5xl lg:text-6xl font-bold tracking-tight text-neutral-900 mb-6">
-            Ollie's Fast Emergency<br />
+            Ollie&apos;s Fast Emergency<br />
             <span className="text-emerald-600">[Service] in [City]</span>
           </h1>
           <div className="space-y-4 text-xl text-neutral-600 mb-8">
