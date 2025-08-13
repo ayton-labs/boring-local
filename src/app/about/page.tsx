@@ -26,7 +26,7 @@ export default function About() {
             <h2 className="text-4xl font-bold tracking-tight text-neutral-900 mb-8">Our Mission</h2>
             <p className="text-xl text-neutral-600 leading-relaxed max-w-3xl mx-auto">
               To provide fast, reliable, and professional [service] solutions to our community. 
-              We understand that [service] emergencies can happen at any time, which is why we're 
+              We understand that [service] emergencies can happen at any time, which is why we&apos;re 
               available 24/7 to help you when you need us most.
             </p>
           </div>
@@ -87,8 +87,8 @@ export default function About() {
             <h2 className="text-4xl font-bold tracking-tight text-neutral-900 mb-8">Service Areas</h2>
             <p className="text-xl text-neutral-600 leading-relaxed max-w-3xl mx-auto">
               We proudly serve [City] and the surrounding communities including [Area 1], 
-              [Area 2], and [Area 3]. If you're unsure whether we service your area, 
-              give us a call and we'll let you know!
+              [Area 2], and [Area 3]. If you&apos;re unsure whether we service your area, 
+              give us a call and we&apos;ll let you know!
             </p>
             <div className="mt-8">
               <a 

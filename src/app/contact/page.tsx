@@ -85,7 +85,7 @@ export default function Contact() {
               <div className="bg-gradient-to-br from-red-50 to-orange-50 rounded-3xl p-8 border border-red-100">
                 <h3 className="font-bold text-2xl text-neutral-900 mb-4">Emergency Service</h3>
                 <p className="text-lg text-neutral-600 mb-6">
-                  Need immediate assistance? We're available 24/7 for emergencies.
+                  Need immediate assistance? We&apos;re available 24/7 for emergencies.
                 </p>
                 <a 
                   href="tel:+1234567890" 
